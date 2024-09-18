@@ -54,7 +54,7 @@ export class RegisterComponent implements OnInit {
         email,
         password,
         dob,
-        userType: 'user',
+        userType: 'admin',
         location,
         profilePicture: this.profilePicture
       };
